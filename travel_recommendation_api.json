@@ -1,0 +1,81 @@
+{
+    "countries": [
+      {
+        "id": 1,
+        "name": "Australia",
+        "cities": [
+          {
+            "name": "Sydney, Australia",
+            "imageUrl": "https://encrypted-tbn2.gstatic.com/licensed-image?q=tbn:ANd9GcRhQPo3Ysz6MlU3FKMyStoyrwusdDi5qXESmCrZom27mfcX11tUffsA9MV7GJYrGQ8dZIjJFMdFFQQK9asNBgazbkqCDCOLjee8Howtrw",
+            "description": "A vibrant city known for its iconic landmarks like the Sydney Opera House and Sydney Harbour Bridge."
+          },
+          {
+            "name": "Melbourne, Australia",
+            "imageUrl": "https://encrypted-tbn0.gstatic.com/licensed-image?q=tbn:ANd9GcTjCJjwVqoLxQQOnGB453nAjHSzMtLB2FoRvnTgZ15fRW_CFFU12w8R-wLnweT-D4sBN_HWNXE8lVqgBmKeCUhRxk1q_6BBIsMKlrjsXg",
+            "description": "A cultural hub famous for its art, food, and diverse neighborhoods."
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "name": "Japan",
+        "cities": [
+          {
+            "name": "Tokyo, Japan",
+            "imageUrl": "https://encrypted-tbn2.gstatic.com/licensed-image?q=tbn:ANd9GcTGthzE2pLS9iykg6QfQeTNlc3eBUH-X7bCZ59054j6QSNJ-53wXXQX7zeOCIL7DOWrnosXlnWQxavOQ1hrfox0TnynMmU7rwUE-9R-eg",
+            "description": "A bustling metropolis blending tradition and modernity, famous for its cherry blossoms and rich culture."
+          },
+          {
+            "name": "Kyoto, Japan",
+            "imageUrl": "https://lh5.googleusercontent.com/p/AF1QipPryFiaKt8Vgl4jzk_X8ONkPbJPfDxGFBy0kJm8=w1080-h624-n-k-no",
+            "description": "Known for its historic temples, gardens, and traditional tea houses."
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "name": "Brazil",
+        "cities": [
+          {
+            "name": "Rio de Janeiro, Brazil",
+            "imageUrl": "https://encrypted-tbn0.gstatic.com/licensed-image?q=tbn:ANd9GcTRwUW0p-5AJfhqK3vvwlLMm--Yes9SXBJjk-3FfQ5PBsnYWqrEDceATDfilhwEJkUkJ_bM1zgEV3HUaEAiYiiPuXiZ2pHAos8Y69SThg",
+            "description": "A lively city known for its stunning beaches, vibrant carnival celebrations, and iconic landmarks."
+          },
+          {
+            "name": "São Paulo, Brazil",
+            "imageUrl": "https://encrypted-tbn1.gstatic.com/licensed-image?q=tbn:ANd9GcQD0VCV2Z_JOKVUdCPiz9WUhlSr1FNXjfLnZQN4_Xbst1cuUBG5gZlIqwsCbmMms7pfhVpniy-1frF0cwnEg_s1vSCA7ngJS7pXC6Y3yg",
+            "description": "The financial hub with diverse culture, arts, and a vibrant nightlife."
+          }
+        ]
+      }
+    ],
+    "temples": [
+      {
+        "id": 1,
+        "name": "Angkor Wat, Cambodia",
+        "imageUrl": "https://encrypted-tbn2.gstatic.com/licensed-image?q=tbn:ANd9GcTeJmzAiW66MNEYJPRVEMi9lmrkedxLVV2TVUFELtGkqy3iSIUP_f5k2fSbHcPdMDEDGpqoiLjz0-zdRarSAsJIyCUDZN-uuOE26qp4_g",
+        "description": "A UNESCO World Heritage site and the largest religious monument in the world."
+      },
+      {
+        "id": 2,
+        "name": "Taj Mahal, India",
+        "imageUrl": "https://encrypted-tbn2.gstatic.com/licensed-image?q=tbn:ANd9GcRp2JqiYlrzj3qTR-2tv360YzEEv80JuB1zgJzFBgi7H55d4Bm_PHEMxOkcn3qyv0Ck78Lg_hExvIjql62Nt9Bml6jPU_GVOA6Fwm4Z-Mk",
+        "description": "An iconic symbol of love and a masterpiece of Mughal architecture."
+      }
+    ],
+    "beaches": [
+      {
+        "id": 1,
+        "name": "Bora Bora, French Polynesia",
+        "imageUrl": "https://encrypted-tbn1.gstatic.com/licensed-image?q=tbn:ANd9GcT4pXDk2BchaPDJCpl5U-SiU0DeP5leDUqgUug7VpZmXzbUySrAHcs0SrikaYzRCoc9Zd3lZ6sk9oQwlGDCqTlcvp1rbmpoiz7hZHq4Dw",
+        "description": "An island known for its stunning turquoise waters and luxurious overwater bungalows."
+      },
+      {
+        "id": 2,
+        "name": "Copacabana Beach, Brazil",
+        "imageUrl": "https://encrypted-tbn1.gstatic.com/licensed-image?q=tbn:ANd9GcR5q5BR88KjvVVkughR1u1AzrCDDDiMQ8XsXHBcPRm3drU_ZQiKO5wbq2BWiBMhl915LP7WADXVvRu2HJlbfqU8WEqxSu9Qyknj3HbEZQ",
+        "description": "A famous beach in Rio de Janeiro, Brazil, with a vibrant atmosphere and scenic views."
+      }
+    ]
+  }
+  

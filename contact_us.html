@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>TravelRecommendation</title>
+</head>
+<body>
+    <header style="display: flex; justify-content: space-between;background-color:black;color:white;align-items: center;">
+        <div style="display: flex; align-items: center;font-weight:bold;"">
+            <span>TravelRecommendation</span>
+        </div>
+        <nav>
+            <ul style="list-style: none; display: flex;gap: 20px;font-weight:bold;">
+                <li><a href="travel_recommendation.html" style="color: white;text-decoration:none">Home</a></li>
+                <li><a href="about_us.html" style="color: white;text-decoration:none">About us</a></li>
+                <li><a href="contact_us.html" style="color: white;text-decoration:none">Contact us</a></li>
+            </ul>
+        </nav>
+        <div style="visibility: hidden;">
+            <input type="text" placeholder="Enter a destination or keyword">
+            <button>Search</button>
+            <button>Clear</button>
+        </div>
+    </header>
+    <section style="background-image: url('https://as1.ftcdn.net/jpg/02/39/83/96/1000_F_239839646_Ji8jIoR6Uw0r4F8FiBurWe7E0N3yEiEO.jpg'); height: 100vh; background-size: cover; background-position: center;color: white">
+        <div style="max-width: 1200px; margin: 0 auto;">
+            <h1 style="font-size: 4rem; font-weight: bold; margin-bottom: 0.5rem; text-shadow: 2px 2px 4px rgba(0,0,0,0.5);">CONTACT US</h1>
+            <p style="font-size: 1.2rem; margin-bottom: 2rem; text-shadow: 1px 1px 2px rgba(0,0,0,0.5);">Get in touch</p>
+
+            <form style="max-width: 600px; width: 100%;">
+                <div style="margin-bottom: 1.5rem;">
+                    <label style="display: block; margin-bottom: 0.5rem;">Name</label>
+                    <input type="text" placeholder="your name" style="width: 100%; padding: 0.8rem; border-radius: 4px; border: none; background: rgba(255, 255, 255, 0.9); font-size: 1rem;">
+                </div>
+
+                <div style="margin-bottom: 1.5rem;">
+                    <label style="display: block; margin-bottom: 0.5rem;">Email</label>
+                    <input type="email" placeholder="your email" style="width: 100%; padding: 0.8rem; border-radius: 4px; border: none; background: rgba(255, 255, 255, 0.9); font-size: 1rem;">
+                </div>
+
+                <div style="margin-bottom: 1.5rem;">
+                    <label style="display: block; margin-bottom: 0.5rem;">Message</label>
+                    <textarea placeholder="your message" style="width: 100%; padding: 0.8rem; border-radius: 4px; border: none; background: rgba(255, 255, 255, 0.9); font-size: 1rem; min-height: 150px; resize: vertical;"></textarea>
+                </div>
+
+                <button type="submit" style="width: 100%; padding: 1rem; background: #008080; color: white; border: none; border-radius: 4px; font-size: 1rem; cursor: pointer; transition: background 0.3s ease; text-transform: uppercase;">Submit</button>
+            </form>
+        </div>
+    </section>
+</body>
+</html>
